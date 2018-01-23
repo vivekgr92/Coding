@@ -1,0 +1,7 @@
+﻿  C++learn.cpp
+c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(71): error C2062: type 'int' unexpected
+c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(71): error C2238: unexpected token(s) preceding ';'
+c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(76): error C2065: 'mileage': undeclared identifier
+c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(80): error C2065: 'mileage': undeclared identifier
+c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(139): error C2440: '=': cannot convert from 'std::basic_ostream<char,std::char_traits<char>>' to 'int'
+  c:\users\vivek\source\repos\c++learn\c++learn\c++learn.cpp(139): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called

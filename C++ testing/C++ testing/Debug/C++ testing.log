@@ -1,0 +1,8 @@
+﻿  C++ testing.cpp
+c:\users\vivek\source\repos\c++ testing\c++ testing\c++ testing.cpp(44): error C2664: 'void std::vector<int,std::allocator<_Ty>>::push_back(_Ty &&)': cannot convert argument 1 from 'int *' to 'const int &'
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\vivek\source\repos\c++ testing\c++ testing\c++ testing.cpp(44): note: Reason: cannot convert from 'int *' to 'const int'
+  c:\users\vivek\source\repos\c++ testing\c++ testing\c++ testing.cpp(44): note: There is no context in which this conversion is possible

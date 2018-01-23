@@ -1,0 +1,3 @@
+﻿  PowerSet.cpp
+c:\users\vivek\source\repos\powerset\powerset\powerset.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PowerSet.vcxproj -> c:\Users\vivek\source\repos\PowerSet\Debug\PowerSet.exe
